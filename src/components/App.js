@@ -23,7 +23,7 @@ class App extends Component {
     		
 			{this.state.display===true?
 				<p id='para'>
-				Hello, I've learnt to use the full-stack evaluation tool.This makes me so happy</p>:""
+				Hello, I've learnt to use the full-stack evaluation tool.This makes me so happy</p>:''
 				}
 	         </div>		
 			);
